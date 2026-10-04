@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
+    base: '/party_website/',
     resolve: {
       dedupe: ['react', 'react-dom'],
       alias: {
