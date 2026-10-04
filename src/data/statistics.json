@@ -1,0 +1,93 @@
+{
+  "keyStats": [
+    {
+      "id": "members",
+      "label": "Members",
+      "value": "10M+",
+      "sublabel": "Across all states",
+      "trend": "+18.4% QoQ",
+      "description": "Verified active members enrolled across municipal and gram panchayat committees."
+    },
+    {
+      "id": "volunteers",
+      "label": "Volunteers",
+      "value": "500K+",
+      "sublabel": "On the ground",
+      "trend": "740 Districts",
+      "description": "Full-time grassroots volunteers driving civic outreach and local welfare clinics."
+    },
+    {
+      "id": "states",
+      "label": "States",
+      "value": "28",
+      "sublabel": "Regional presence",
+      "trend": "+ 8 UTs",
+      "description": "Active state working committees, youth councils, and parliamentary monitors."
+    },
+    {
+      "id": "growth",
+      "label": "Growth",
+      "value": "150%",
+      "sublabel": "Yearly increase",
+      "trend": "Nationwide surge",
+      "description": "Fastest-expanding civic collective driven by youth engagement and transparent governance."
+    }
+  ],
+  "regionalBreakdown": [
+    {
+      "region": "Northern Zone",
+      "states": ["Delhi", "Punjab", "Haryana", "Uttar Pradesh", "Himachal Pradesh"],
+      "members": "3.8M",
+      "volunteers": "180,000",
+      "primaryFocus": "Farmer Fair Pricing & Clean Air Initiative"
+    },
+    {
+      "region": "Western Zone",
+      "states": ["Maharashtra", "Gujarat", "Rajasthan", "Goa"],
+      "members": "2.4M",
+      "volunteers": "125,000",
+      "primaryFocus": "Industrial Worker Rights & Municipal Transparency"
+    },
+    {
+      "region": "Southern Zone",
+      "states": ["Karnataka", "Tamil Nadu", "Telangana", "Andhra Pradesh", "Kerala"],
+      "members": "2.1M",
+      "volunteers": "110,000",
+      "primaryFocus": "Tech Ethics, Skill Hubs & Public Healthcare"
+    },
+    {
+      "region": "Eastern & North-East",
+      "states": ["West Bengal", "Bihar", "Odisha", "Assam", "Meghalaya"],
+      "members": "1.7M",
+      "volunteers": "85,000",
+      "primaryFocus": "Flood Resilient Infrastructure & Rural Literacy"
+    }
+  ],
+  "impactMilestones": [
+    {
+      "metric": "1,420+",
+      "title": "Townhall Consultations",
+      "detail": "Open mic townhalls where citizens interrogate representatives with no gatekeeping."
+    },
+    {
+      "metric": "89.2%",
+      "title": "Grievance Resolution Rate",
+      "detail": "Over 240,000 public grievances tracked and resolved via our Citizen Helpdesks."
+    },
+    {
+      "metric": "45,000",
+      "title": "Youth Leadership Cadre",
+      "detail": "Under-30 fellows trained in policy research, public auditing, and community mobilization."
+    },
+    {
+      "metric": "100%",
+      "title": "Transparent Funding",
+      "detail": "Every rupee donated is auditable online by donor PAN and expenditure category."
+    }
+  ],
+  "demographics": {
+    "youthShare": "62% under 35 years old",
+    "womenParticipation": "44% active leadership roles",
+    "firstTimeParticipants": "58% previously unaffiliated citizens"
+  }
+}

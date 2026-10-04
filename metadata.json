@@ -1,0 +1,6 @@
+{
+  "name": "VJP - Vikas Jan Parishad | Official Movement Portal",
+  "description": "Official portal of Vikas Jan Parishad (VJP). Explore party statistics, key initiatives, grassroots achievements, and join the nationwide civic movement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
